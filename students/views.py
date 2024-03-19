@@ -4,4 +4,4 @@ from django.shortcuts import render, HttpResponse
 
 
 def student_test(request):
-    return HttpResponse("Hello World.")
+    return HttpResponse("Hello Nepal.")
